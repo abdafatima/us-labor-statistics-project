@@ -1,0 +1,17 @@
+# Initialize a git repo (skip if already done)
+git init
+
+# Set your GitHub repo URL
+git remote add origin "C:\Users\Syeda\Downloads\all_data_M_2023.zip"
+# Initialize Git LFS and track Excel files
+git lfs install
+git lfs track "*.xlsx"
+
+# Stage everything including .gitattributes
+git add .
+
+# Commit your work
+git commit -m "Initial commit with notebook and large dataset using Git LFS"
+
+# Push to GitHub
+git push -u origin main
