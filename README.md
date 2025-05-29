@@ -76,6 +76,5 @@ The OEWS dataset provides detailed employment and wage estimates for over 800 oc
 
 ## 👥 Acknowledgements
 
-- **Professor Alia Azzama** for her mentorship and support throughout the course.
 - **Bureau of Labor Statistics** for providing the OEWS dataset.
 - Our team members for collaboration, analysis, and commitment to delivering impactful results.
