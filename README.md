@@ -1,23 +1,20 @@
-# 📊 U.S. OCCUPATIONAL EMPLOYMENT AND WAGE ANALYSIS (OEWS 2023)
-
-#### A Capstone Project for ADTA 5410 – Application and Deployment of Advanced Analytics  
-**Team 5**: Naga Dheeraj Sudanagunta · Sai Dheeraj Sambaraju Narasimha Santosh · Abda Fatima Syeda · Akansha Karmarkar
+#  U.S. OCCUPATIONAL EMPLOYMENT AND WAGE ANALYSIS (OEWS 2023)
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 This project focuses on analyzing the **Occupational Employment and Wage Statistics (OEWS)** dataset from the U.S. Bureau of Labor Statistics (BLS). The primary objective was to explore employment trends, wage distribution, and occupational insights to understand the American workforce better. We conducted extensive data cleaning, exploratory data analysis (EDA), and developed visual insights to assist in decision-making and workforce planning.
 
 ---
 
-## 📂 About the Dataset
+##  About the Dataset
 
 The OEWS dataset provides detailed employment and wage estimates for over 800 occupations across industries and geographic regions in the U.S. (as of May 2023). It includes median and mean wage estimates, employment levels, and percentile wage breakdowns. This dataset serves as a critical resource for economists, policymakers, job seekers, and workforce planners.
 
 ---
 
-## ✅ Key Steps
+##  Key Steps
 
 ### 1. **Data Acquisition**
 - Imported the official OEWS dataset using the Pandas library
@@ -40,7 +37,7 @@ The OEWS dataset provides detailed employment and wage estimates for over 800 oc
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 - **Top-Paying Occupations**: Surgeons, anesthesiologists, and psychiatrists lead national wage rankings.
 - **Industry Variations**: The tech and finance sectors show significantly higher median salaries compared to education and hospitality.
@@ -49,7 +46,7 @@ The OEWS dataset provides detailed employment and wage estimates for over 800 oc
 
 ---
 
-## 📊 Technologies Used
+##  Technologies Used
 - **Programming Language**: Python
 - **Libraries**: Pandas · NumPy · Seaborn · Matplotlib · Scikit-learn
 - **Platform**: Jupyter Notebook
@@ -57,24 +54,4 @@ The OEWS dataset provides detailed employment and wage estimates for over 800 oc
 
 ---
 
-## 🧪 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/oews-wage-analysis.git
-   cd oews-wage-analysis
-   ```
-
-2. Launch Jupyter Notebook and open `Final Project Report.ipynb`:
-   ```bash
-   jupyter notebook
-   ```
-
-3. Run all cells to generate results, visualizations, and insights.
-
----
-
-## 👥 Acknowledgements
-
-- **Bureau of Labor Statistics** for providing the OEWS dataset.
-- Our team members for collaboration, analysis, and commitment to delivering impactful results.
